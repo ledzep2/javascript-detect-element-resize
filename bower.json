@@ -1,5 +1,6 @@
 {
 "name": "jquery-element-resize",
+"ignore": [],
 "main": "jquery.resize.js",
 "version": "0.5",
 "dependencies": {
