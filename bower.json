@@ -1,0 +1,9 @@
+{
+"name": "jquery-element-resize",
+"main": "jquery.resize.js",
+"version": "0.5",
+"dependencies": {
+ "jquery": "^1.0.0"
+}
+}
+
