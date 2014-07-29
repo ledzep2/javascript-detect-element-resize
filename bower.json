@@ -1,10 +1,20 @@
 {
-"name": "jquery-element-resize",
-"ignore": [],
-"main": "jquery.resize.js",
-"version": "0.5",
-"dependencies": {
- "jquery": "^1.0.0"
+  "name": "jquery-element-resize",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "jquery.resize.js",
+  "version": "0.5",
+  "dependencies": {
+    "jquery": "^1.0.0"
+  },
+  "homepage": "https://github.com/sdecima/javascript-detect-element-resize",
+  "authors": [
+    "Sebastián Décima"
+  ],
+  "license": "MIT"
 }
-}
-
